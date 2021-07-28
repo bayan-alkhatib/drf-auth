@@ -1,2 +1,2 @@
-mobile-permission: https://github.com/bayan-alkhatib/mobile-api-permissions/pull/1
+mobile-auth https://github.com/bayan-alkhatib/drf-auth/pull/1
 
